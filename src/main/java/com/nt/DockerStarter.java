@@ -8,5 +8,6 @@ public class DockerStarter {
 
 	public static void main( String[] args ) {
 		SpringApplication.run( DockerStarter.class, args );
+		System.out.println("sudha added");
 	}
 }
